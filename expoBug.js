@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK.  The error message is vague and unhelpful, often stating something like "Build failed" or a similar generic message without details.  Debugging is difficult due to the lack of specifics.  This is usually reproducible on different machines and projects.
